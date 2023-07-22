@@ -17,7 +17,7 @@
 
 .preNav > div svg{
     fill: rgb(180, 180, 180);
-    font-size: 1vmax;
+
 }
 .preNav > div svg:hover{
     fill: white;
