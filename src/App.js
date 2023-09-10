@@ -24,12 +24,11 @@ function App() {
       <HotAccessoriesMenu />
       <Routes>
         <Route
-          exact
           path="/music"
           element={
             <HotAccessories
               music={data.hotAccessories.music}
-              musicCover={data.hotAccessories.musicCover}
+              musicCover={data.hotAccessoriesCover.music}
             />
           }
         />
