@@ -8,7 +8,7 @@ const HotAccessoriesMenu = () => {
       <Link className="hotAccessoriesLink" to="/music">
         Music
       </Link>
-      <Link className="hotAccessoriesLink" to="/smartDevices">
+      <Link className="hotAccessoriesLink" to="/smartDevice">
         Smart Devices
       </Link>
       <Link className="hotAccessoriesLink" to="/home">
